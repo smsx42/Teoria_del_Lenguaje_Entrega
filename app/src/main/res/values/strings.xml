@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="pausa">Pausa</string>
+    <string name="Tomate" />
+    <string name="Play">Play\n</string>
+    <string name="Pause">Pause</string>
+    <string name="Restart">Restart</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="todo">TODO</string>
+    <string name="boton_de_pausa">Boton de Pausa</string>
+    <string name="boton_de_iniciado">Boton de Iniciado</string>
+    <string name="boton_de_detener">Boton de Detener</string>
+    <string name="imagen_pomodoro">Imagen Pomodoro</string>
+</resources>
